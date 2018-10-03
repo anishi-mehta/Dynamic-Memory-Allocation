@@ -1,6 +1,5 @@
 # DYNAMIC MEMORY ALLOCATION
 
-Aarushi Sanghani 	: 201401403
 Anishi Mehta		: 201401439
 
 
